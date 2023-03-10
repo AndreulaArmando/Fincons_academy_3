@@ -1,1 +1,1 @@
-SELECT * FROM schema.tabella;
+SELECT * FROM schema.tabella2;
